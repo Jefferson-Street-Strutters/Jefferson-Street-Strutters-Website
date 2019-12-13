@@ -1,3 +1,8 @@
+---
+layout: page
+title: Testimonials
+---
+
 # Testimonials
 
 ## We love our clients!

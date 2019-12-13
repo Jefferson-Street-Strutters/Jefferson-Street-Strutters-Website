@@ -1,1 +1,37 @@
-theme: jekyll-theme-cayman
+# Base configuration
+#permalink: /:title
+exclude: ["README.md"]
+#highlighter: rouge
+
+# Title
+name: Jefferson Street Strutters
+subtitle: O&M Guide for SharePoint at CFPB
+
+# baseurl: '/pages/'
+
+author:
+  name: Jefferson Street Strutters
+  url: https://jeffersonstreetstrutters.com
+
+# Style Variables
+brand_color: "#2cb34a"
+
+# Navigation
+# List links that should appear in the site sidebar here
+navigation:
+- page: "Welcome to the Jefferson Street Strutters Jazz Band"
+  path: index
+- page: "Meet the Band"
+  path: meet-the-band
+- page: "Events Calendar"
+  path: calendar
+- page: "Videos"
+  path: videos
+- page: "Photos"
+  path: photos
+- page: "Testimonials"
+  path: testimonials
+- page: "Playlist"
+  path: playlist
+- page: "Contact & Booking"
+  path: contact

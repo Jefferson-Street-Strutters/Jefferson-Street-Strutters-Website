@@ -24,7 +24,7 @@ Maybe genetic, but in any case, Steve has two sons involved in the music scene. 
 
 ## Dave Tucker, Pianist
 
-## Ragtime, Stride & Early Jazz Piano
+### Ragtime, Stride & Early Jazz Piano
 
 Dave Tucker lives in Alexandria, Virginia, is married (Cindy) with two children (Michael & Christina), and conducts patent research for a living. Dave has played piano, specializing in ragtime, since 1970. In the early 1990s he took up piano performance with great enthusiasm and began to expand his playing into other early jazz forms such at stride and novelty piano.
 
@@ -34,3 +34,11 @@ Dave has performed at the International Scott Joplin Ragtime Festival, the Blind
 
 Dave now performs regularly in the Washington D.C. region. In 2005, Dave joined the Hots Jazz Orchestra as their pianist, performing hundreds of tunes in numerous styles covering the time period of 1890-1945. In addition, Dave helped develop a new jazz trio/combo called Reverie (http://www.reveriejazz.com), now performing regularly. This group specializes in presenting early jazz standards in their original style. Dave joined the Jefferson Street Strutters in 2007. In December 2008 Dave became the Director of The Hot Society Orchestra of Washington, an 11- piece group performing music from the 1920s-1940s (http://hotsociety.net). Dave also works with other musicians and vocalists for various projects in the D.C. area, and maintains a website covering his activities at http://www.turboragtime.com.
 
+## Meghan Williams Elkins, Soprano
+
+Meghan is a classically trained musician in voice and piano. Meghan hails from St. Louis Park, MN and received her Bachelor of Fine Arts degree, Acting emphasis with a Music Minor at the University of Minnesota-Duluth. Meghan comes from a very musical and artistic family and began her career early as a musician, at the age of 8, as a pianist. During grade school and junior high Meghan played the percussion section for school band and was the pianist for the extra-curricular group, Stage Band. Throughout high school, Meghan performed in the school plays and was a pianist for the Jazz class (Jazz Lab). Meghan also joined an extension of the Jazz Lab called The Jazztet and became their vocalist after the Jazz instructor heard her sing. The Jazztet performed locally and regionally, which also included performing at the prestigious Northrup Theatre in Minneapolis.
+
+Meghan received a music scholarship after performing a concert at the University of Minnesota-Duluth, MN. After receiving her Bachelor of Fine Arts degree, Meghan performed in numerous roles in various theatres throughout the Minneapolis area and has also been seen on the stage of The Guthrie Theatre. During this time, Meghan went on to study opera and voice at MacPhail, Center for the Arts, in downtown Minneapolis where she was an Honor student and, by invitation only, performed in Master Classes with various guest coaches and opera singers.
+
+After moving to Maryland in 2001, Meghan performed in various operas with The Victorian Lyric Opera Company and The American Center for Puccini Studies and continues to make many concert appearances throughout the DC Metro Region. She became a lead singer for The New Hots Jazz Orchestra in 2004 and performed for the Art Deco Festival in Napier, New Zealand in 2006. Meghan was invited to become the vocalist for the Jefferson Street Strutters Dixieland Band and moved on from The New Hots Jazz Orchestra to join this new and exciting musical group! Meghan also joined the Washington Balalaika Society as a fledgling domratist, where the orchestra has played in well-known local venues (The Barns at Wolf Trap and The McLean Slavic Festival) along with several summer park concerts. 
+When not performing various operas, theatre and concerts, Meghan can be found in her home studio teaching piano and voice. Meghan’s husband is the cute trumpet player for The Jefferson Street Strutters who is a VERY patient and understanding man and she loves him dearly.

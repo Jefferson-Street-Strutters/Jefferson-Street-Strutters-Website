@@ -16,6 +16,11 @@ The Strutters are based in Northern Virginia and provide entertainment throughou
 * videos.html
 * photos.html
 
+## Jefferson Street Strutters Promo
+
+<iframe width="853" height="480" src="https://www.youtube-nocookie.com/embed/7DIXtGTl5U0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## Videos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLNIYMTLS6lhgZbpxSf58E799Iml-IEc6n" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

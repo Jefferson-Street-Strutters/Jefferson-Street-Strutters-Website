@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Welcome to the Jefferson Street Strutters Website
+title: The Jefferson Street Strutters Jazz Band Website
+path: index
 ---
 
 # Welcome to the Jefferson Street Strutters
@@ -11,16 +12,10 @@ The Jefferson Street Strutters play traditional jazz and American popular songs 
 
 The Strutters are based in Northern Virginia and provide entertainment throughout the entire Washington, DC region. The group is available for restaurants & clubs, corporate events, community gatherings, private parties, wedding receptions, political events, retirement communities, gospel services, retirement parties, and all sorts of special occasions. Besides the full Dixieland style band, the group also offers various small-combo configurations with repertoire to suit your needs.
 
-* home.html
-* calendar.html
-* videos.html
-* photos.html
-
 ## Jefferson Street Strutters Promo
 
-<iframe width="853" height="480" src="https://www.youtube-nocookie.com/embed/7DIXtGTl5U0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="940" height="520" src="https://www.youtube-nocookie.com/embed/7DIXtGTl5U0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## More Videos
 
-## Videos
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLNIYMTLS6lhgZbpxSf58E799Iml-IEc6n" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="940" height="520" src="https://www.youtube.com/embed/videoseries?list=PLNIYMTLS6lhgZbpxSf58E799Iml-IEc6n" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

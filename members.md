@@ -1,5 +1,12 @@
 # 
 
+## Les Elkins Trumpet 
+
+Les is originally from West Virginia, growing up in Chuck Yeager's hometown. He played trumpet in high school marching bands and continued playing while he attended the West Virginia Institute of Technology in Montgomery, WV. There he also sang with the Guy Owen Baker Chorale, traveling with them to Germany, Austria, Poland, and Hungary.
+
+When Les moved to Maryland he was pleased to find many opportunities to continue playing, including the Columbia Community Band, Rockville Brass Band, and the employee's band at the Naval Surface Warfare Center at White Oak, MD. In addition to JSS Les currently plays trumpet with the New HOTS Jazz Orchestra and occasionally the Rockville Brass Band and other groups. He has also played in some fifty-odd pit bands for community theaters in the area. Les has also appeared on stage in a number of musicals and operettas, as part of the chorus or as an occasional role in community and professional theaters in DC and Maryland.
+
+He is pleased to have this opportunity to find the trad jazz sound, work on his improvisation (only took twenty-five years of playing to get ready to learn to improvise!) and is pleased to have yet another venue to perform with his new wife, the vocalist.
 
 
 ## Steve Luchter, Clarinet & Sax

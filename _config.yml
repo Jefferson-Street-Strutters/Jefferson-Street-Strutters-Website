@@ -21,8 +21,8 @@ brand_color: "#2cb34a"
 navigation:
 - page: "Welcome to the Jefferson Street Strutters Jazz Band"
   path: index
-- page: "Meet the Band"
-  path: meet-the-band
+- page: "Meet the Players"
+  path: meet-the-players
 - page: "Events Calendar"
   path: calendar
 - page: "Videos"

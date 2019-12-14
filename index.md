@@ -15,3 +15,7 @@ The Strutters are based in Northern Virginia and provide entertainment throughou
 * calendar.html
 * videos.html
 * photos.html
+
+## Videos
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLNIYMTLS6lhgZbpxSf58E799Iml-IEc6n" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

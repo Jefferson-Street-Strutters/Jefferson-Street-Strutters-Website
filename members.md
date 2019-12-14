@@ -19,4 +19,18 @@ Although his primary interest is in traditional jazz, Steve also plays Russian f
 
 Another area of interest is as an advocate for the arts. Steve is president of the Arlington Citizens for the Arts and has appeared before the Arlington County Board and the School Board advocating for issues of interest to the arts community. 
 
-Maybe genetic, but in any case, Steve has two sons involved in the music scene. His older son, Justin, is a bass guitar player and an expert in sound engineering. His younger son, Peter, is a drummer, presently leading a fusion jazz band
+Maybe genetic, but in any case, Steve has two sons involved in the music scene. His older son, Justin, is a bass guitar player and an expert in sound engineering. His younger son, Peter, is a drummer, presently leading a fusion jazz band.
+
+
+## Dave Tucker, Pianist
+
+## Ragtime, Stride & Early Jazz Piano
+
+Dave Tucker lives in Alexandria, Virginia, is married (Cindy) with two children (Michael & Christina), and conducts patent research for a living. Dave has played piano, specializing in ragtime, since 1970. In the early 1990s he took up piano performance with great enthusiasm and began to expand his playing into other early jazz forms such at stride and novelty piano.
+
+Dave is an internationally known performer of early jazz styles. His first CD “Tickled Ragtime & Novelties” in 2001 featured the music of Scott Joplin, Joseph Lamb, Zez Confrey and others. Recently, while expanding his ragtime repertoire, Dave has explored many other forms of early syncopated music including European novelty piano and the Harlem stride of James P. Johnson, Willie “The Lion” Smith and Fats Waller. His second CD “Meadow Lark”, issued in April 2005, reflects his intense research, study and numerous experiences since first becoming a regular performer on the ragtime circuit. Meadow Lark includes songs of many styles, such as classic and modern-era ragtime, Harlem stride and other examples of early jazz piano music. Dave is currently working on a project to record the entire Scott Joplin repertoire while also working on another CD of ragtime, stride and early jazz pieces. 
+
+Dave has performed at the International Scott Joplin Ragtime Festival, the Blind Boone Ragtime Festival, the West Coast Ragtime Festival, the Lake Superior Ragtime Festival, the Eau Claire Ragtime Festival, the Alexandria Bay Ragtime/Jasstime Festival and the Northern Virginia Ragtime Society, among other numerous appearances. Dave has also conducted several ragtime presentations for school children.
+
+Dave now performs regularly in the Washington D.C. region. In 2005, Dave joined the Hots Jazz Orchestra as their pianist, performing hundreds of tunes in numerous styles covering the time period of 1890-1945. In addition, Dave helped develop a new jazz trio/combo called Reverie (http://www.reveriejazz.com), now performing regularly. This group specializes in presenting early jazz standards in their original style. Dave joined the Jefferson Street Strutters in 2007. In December 2008 Dave became the Director of The Hot Society Orchestra of Washington, an 11- piece group performing music from the 1920s-1940s (http://hotsociety.net). Dave also works with other musicians and vocalists for various projects in the D.C. area, and maintains a website covering his activities at http://www.turboragtime.com.
+

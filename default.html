@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <title>{{ page.title }}: CFPB {{ site.name }}</title>
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="{{ site.baseurl }}assets/css/normalize.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}assets/css/main.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}assets/css/syntax.css">
+  </head>
+  <body>
+    <div class="container">
+
+      <header role="banner">
+        <div class="wrap">
+          <img class="logo" src="{{ site.baseurl }}assets/img/logo.svg" alt="CFPB">
+          <h1 class="site-title"><a class="title-link" href="{{ site.baseurl }}/">CFPB {{ site.name }}</a></h1>
+        </div>
+      </header>
+
+      <div class="wrap content">
+
+        {% include sidebar.html %}
+
+        <section id="main" class="main-content" role="main">
+          {{ content }}
+        </section>
+
+      </div><!-- /.wrap content -->
+
+      <footer role="contentinfo">
+        <div class="wrap">
+          <p>This project is maintained by the <a href="{{ site.author.url }}">{{ site.author.name }}</a>.</p>
+          <p>Source code is hosted on <a href="https://github.cfpb.gov/SharePoint/SharePoint-Governance/">GitHub</a>.</p>
+        </div><!--/.wrap -->
+      </footer>
+
+    </div><!-- /.container -->
+
+    <!--
+      Jekyll Configuration and Troubleshooting
+
+      https://jekyllrb.com/docs/variables/
+
+      Site Variables
+        output_ext: {{ output_ext }}
+        collection: {{ collection }}
+        path: {{ path }}
+        name: {{ name }}
+        title: {{ title }}
+        slug: {{ slug }}
+        page.slug: {{ page.slug }}
+
+      Page Variables
+        page.title:  {{page.title}}
+        page.excerpt:  {{page.excerpt}}
+        page.url:  {{page.url}}
+        page.date:  {{page.date}}
+        page.id:  {{page.id}}
+        page.categories:  {{page.categories}}
+        page.collection:  {{page.collection}}
+        page.tags:  {{page.tags}}
+        page.dir:  {{page.dir}}
+        page.name:  {{page.name}}
+        page.path:  {{page.path}}
+        page.next:  {{page.next}}
+        page.previous:  {{page.previous}}
+
+    -->
+    <!--<script src="{{ site.baseurl }}/assets/js/index.js"></script>-->
+    </body>
+</html>

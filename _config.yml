@@ -5,9 +5,9 @@ exclude: ["README.md"]
 
 # Title
 name: Jefferson Street Strutters
-subtitle: O&M Guide for SharePoint at CFPB
+subtitle: Dixieland Jazz Band in Northern Virginia
 
-# baseurl: '/pages/'
+baseurl: '/'
 
 author:
   name: Jefferson Street Strutters

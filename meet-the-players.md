@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Meet the Players"
+Subject: "Bios of our band members"
+path: meet-the-players
+---
+
 ## Les Elkins Trumpet 
 
 Les is originally from West Virginia, growing up in Chuck Yeager's hometown. He played trumpet in high school marching bands and continued playing while he attended the West Virginia Institute of Technology in Montgomery, WV. There he also sang with the Guy Owen Baker Chorale, traveling with them to Germany, Austria, Poland, and Hungary.
@@ -45,3 +52,12 @@ Tom Reed holds a master’s degree in percussion performance from the University
 Tom took an extended hiatus from performing in the late 80s and early 90s to devote full attention to his photojournalism career, spending that time as a photographer for The Associated Press (Washington, D.C., bureau), covering the White House, Capitol Hill and all the amazing follies and foibles of the national political scene. He recently retired from the AP, after spending the last decade as a supervising photo editor in the company’s State Photo Center in Washington. 
 
 Over the last half-dozen years, Tom has devoted himself exclusively to drumming, leaving mallet playing to others, and in a kind of “return to personal basics,” once again finds himself playing small-group jazz and Latin styles, performing as a snare drummer with area drum corps (Baltimore Yankee Rebels, Hanover Lancers, American Originals Fife and Drum Corps), teaching privately, and composing and arranging for a variety of ensembles.
+
+## Cathy Gotschall, Tuba
+
+Cathy Gotschall is a native of the DC area – she was born in the District, lived in in the Maryland suburbs for nearly 30 years, then moved across the river into Northern Virginia. Her musical “career” began at age 7 when she saved her allowance and bought an Autoharp. Since then, she has studied and played several other instruments, including harmonica, organ and Celtic harp, before finding true happiness with the tuba in 2000.
+
+Cathy initially played with the Traffic Jammers, a pick-up group of musicians from the U.S. Department of Transportation. Cathy co- founded the Jefferson Street Strutters with clarinetist Steve Luchter and has been enjoying traditional jazz ever since. She and Steve, along with fellow Strutter Bill Haupt, performed weekly as the house band for the Comcast Sports Network’s Monday Night Football pre-game show in the fall 2006.
+
+In addition to her performances on tuba, Cathy is an award-winning Celtic harpist who, with her daughter Caroline on hammered dulcimer, occasionally performs as the duo “Celtic Grace.” When not playing music, Cathy works as a research scientist for the Office of Emergency Medical Services. She lives on Jefferson Street in Falls Church, where the band had its early rehearsals.
+

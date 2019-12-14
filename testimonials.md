@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Testimonials
+path: testimonials
 ---
 
 # Testimonials

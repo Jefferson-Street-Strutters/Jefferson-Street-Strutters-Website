@@ -4,7 +4,9 @@ title: The Jefferson Street Strutters Jazz Band Website
 path: index
 ---
 
-# Welcome to the Jefferson Street Strutters
+# Jefferson Street Strutters 
+
+The Jefferson Street Strutters are a jazz band based in the Washington, DC metropolitan area.
 
 [The Jefferson Street Strutters at Nationals Ballpark April 23rd 2008](DSCN0036-600x450.jpg)
 
